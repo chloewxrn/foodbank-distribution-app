@@ -1,0 +1,2 @@
+R;990610-20-9999;1234;Ong Jia Xuan;Female;ong@gmail.com;0177686800;2302,Cybersquare, 6200 Cyberjaya;Malaysian;2100.0;3
+R;770910-02-1111;1234;Wong Yi Teng;Female;123@gmail.com;0121122334;0921,Taman Cyberia, 62000 Cyberjaya;Malaysian;2200.0;4

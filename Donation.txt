@@ -1,0 +1,6 @@
+D9292881819;Ong Jia Xuan;ong@gmail.com;No 22, Jalan Cyberia 2, Cyberjaya;50;true
+D1636605873632;aloha;halo@gmail.com;Pos222,Jalan MMU;100.0;true
+D1636607810165;qqqqqqq;qqqqqq;qqqqqqqqq;10.0;true
+D1636607873768;sssssss;aaaaaa;qqqqqqq;50.0;true
+D1636635670119;fffffffff;rrrrrrr;rggggggggggggggg;100.0;true
+D1637033777265;Chin Pei Wern;chloe@gmail.com;Taman King;30.0;true

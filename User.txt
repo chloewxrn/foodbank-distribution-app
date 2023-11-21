@@ -1,0 +1,7 @@
+R092019022;990610-11-9219;1234;Wendy;Female;wendy@gmail.com;0177680000;02,Cybersquare, 62000 Cyberjaya;Malaysian;2100.0;100
+R1636040967336;870120-09-1111;1234;Jeremy;Male;jeremy022@gmail.com;0172299002;No 02, Cyberia Smart Home, 62000 Cyberjaya;Malaysian;1900.0;300
+R1636041039455;001209-09-7777;1234;Ng Yoong Kee;Male;789@gmail.com;0156677889;Unit 22, Solstice, 62000 Cyberjaya;Malaysian;2300.0;5
+A0192823772733;admin;1234;Cindy Wong;cindy@gmail.comR1636700674996;22210929-102-101001;1234;
+R1636701436214;881010-05-2222;1234;Chin Pei Wern;Male;456@gmail.com;0178899002;No 22, Cyberia Smart Home, 62000 Cyberjaya;Malaysian;1900.0;3
+R1636702763279;010209-01-2847;1234;Amanda AP Mutu;Female;amanda@hotmail;01900887614;Unit201, Taman MMU, 62000 Cyberjaya;Malaysian;2100.0;2
+R1636699733395;011012-12-1111;1234;Wong Lai Fong;Female;yiiteng@hotmail.com;018-7676628;513, Jalan RR 1/2, Taman RR Jaya, 70300 Seremban, N.S;Malaysian;1000.0;4R1637036118980;870120-09-1122;1234;Ben Koh;Male;ben@gmail.com;017188292;Taman Cyberia 222;Malaysian;2100.0;3
